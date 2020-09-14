@@ -1,8 +1,7 @@
 # samples-mpc_windows / Windows SPC sample codes
 This sample code is for **MPC** communication (devices in SPC mode with MPC supported script) on Windows devices.
 
-[Test LINK: SPC communication mode](../doc/communication-modes/mpc)
-//TODO Add link See "communication-modes/spc"
+> For details on SPC communication check [Useful Links](#Useful-Links) 
 
 ## Requirements
 * IDE (Visual Studio 2017)
@@ -29,8 +28,9 @@ Import the project into your IDE connect the RFID reader to your computer using 
  3. To read MPC memory press "READ" button. Progress and result (received in *ProgressEvent* and *ConversionEvent*) will be shown in TextBox on the right.
 
 ## Useful Links
-
- - [Library and API documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/)
+* [Library and API documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/)
+* GitHub *doc* repository: [Micro-Sensys/doc](https://github.com/Micro-Sensys/doc)
+	* [communication-modes/spc](https://github.com/Micro-Sensys/doc/tree/master/communication-modes/spc)
 
 
 ## Contact
