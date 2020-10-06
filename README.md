@@ -20,8 +20,7 @@ Reading process will be notified by *ProgressEvent* and MPC datasets will be pro
 ## Steps
 Import the project into your IDE connect the RFID reader to your computer using USB cable and run the code.
 
-//TODO screenshot!!
-<!--- ![Screenshot](screenshot/SampleApp_SpcControl_AndroidJava.png) --->
+![Screenshot](dotnet-framework/screenshot/MpcLibraryTest.png)
 
  1. Press "START" button. This will open the communication port and show the reader information (received in *ReaderInfoEvent*) in the TextBox below.
  2. (Optional) Select the value of the properties using provided CheckBox on top right side
