@@ -28,8 +28,8 @@ Import the project into your IDE connect the RFID reader to your computer using 
 
 ## Useful Links
 * [Library and API documentation](https://www.microsensys.de/downloads/DevSamples/Libraries/Windows/iID%20MPC%20-%20.NET%20library/)
-* GitHub *doc* repository: [Micro-Sensys/doc](https://github.com/Micro-Sensys/doc)
-	* [communication-modes/spc](https://github.com/Micro-Sensys/doc/tree/master/communication-modes/spc)
+* GitHub *documentation* repository: [Micro-Sensys/documentation](https://github.com/Micro-Sensys/documentation)
+	* [communication-modes/spc](https://github.com/Micro-Sensys/documentation/tree/master/communication-modes/spc)
 
 
 ## Contact
